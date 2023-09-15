@@ -1,0 +1,3 @@
+[submodule "sigrok-util"]
+	path = sigrok-util
+	url = git://sigrok.org/sigrok-util
